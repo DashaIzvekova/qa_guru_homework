@@ -5,4 +5,4 @@ email = {
     "to": "frid@mail. ",
     "body": "\tHey!\nLet's go hiking this weekd.\nBring snacks!\n"
 }
-
+print(email)
