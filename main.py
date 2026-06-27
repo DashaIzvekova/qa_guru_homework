@@ -1,4 +1,4 @@
-#1.Создайте словарь email
+
 email = {
 "subject": " Weekd plans ",
     "from": "katya_yan@yandex. ",
